@@ -2,3 +2,8 @@
 	path = odoo-dominicana/l10n-dominicana
 	url = git@github.com:odoo-dominicana/l10n-dominicana.git
 	branch = 13.0
+
+[submodule "rma-ept-mdlr"]
+	path = rma-ept-mdlr
+	url = git@github.com:xmarts/rma-ept-mdlr.git
+	branch = main
