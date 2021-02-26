@@ -7,3 +7,8 @@
 	path = rma-ept-mdlr
 	url = git@github.com:xmarts/rma-ept-mdlr.git
 	branch = main
+
+[submodule "indexa-git/l10n-dominicana"]
+	path = indexa-git/l10n-dominicana
+	url = git@github.com:indexa-git/l10n-dominicana.git
+	branch = 13.0
